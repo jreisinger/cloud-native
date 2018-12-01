@@ -6,7 +6,7 @@ vi Dockerfile
 
 docker build -t myhello .
 docker run -p 9999:8888 -d myhello
-docke ps
+docker ps
 docker rm -f <container_id>
 
 docker login
