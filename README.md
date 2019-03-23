@@ -1,4 +1,4 @@
-Cloud Native DevOps with Kubernetes (2019)
+Hello world Go web application in multistage container. Based on Cloud Native DevOps with Kubernetes (2019).
 
 ```
 vi main.go
