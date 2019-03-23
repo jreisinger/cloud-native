@@ -6,6 +6,7 @@ vi Dockerfile
 
 docker build -t myhello .
 docker run -p 9999:8888 -d myhello
+curl localhost:9999 -v
 docker ps
 docker rm -f <container_id>
 
